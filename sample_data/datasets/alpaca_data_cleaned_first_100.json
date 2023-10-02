@@ -1,8 +1,8 @@
 [
   {
-    "instruction": "Give three tips for staying healthy.",
+    "instruction": "Концепция системы «1С:Предприятие».",
     "input": "",
-    "output": "1. Eat a balanced diet and make sure to include plenty of fruits and vegetables. \n2. Exercise regularly to keep your body active and strong. \n3. Get enough sleep and maintain a consistent sleep schedule."
+    "output": "«1С:Предприятие» является универсальной системой автоматизации деятельности предприятия. Это среда разработки и исполнения, включающая в себя набор инструментов, механизмов и сервисов, обеспечивающих все необходимое для разработки прикладных решений, их работы, администрирования и обслуживания. За счет своей универсальности система «1С:Предприятие» может быть использована для автоматизации самых разных участков экономической деятельности предприятия: учета товарных и материальных средств, взаиморасчетов с контрагентами и др.."
   },
   {
     "instruction": "What are the three primary colors?",
